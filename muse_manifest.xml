@@ -1,0 +1,78 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="maryjiang.com" resolutions="1x" timestamp="1532391167649">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="67393561" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-180061x151.svg" crc="3882584641" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 180061x151_poster_.png" crc="433455800" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="pasted-svg-238527x178.svg" crc="370663793" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 238527x178_poster_.png" crc="4108604796" ref="index"/>
+    <file name="u3111-4.png" crc="445949013" ref="index"/>
+    <file name="pasted-svg-35736x34.svg" crc="201240392" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 35736x34_poster_.png" crc="113553070" ref="index"/>
+    <file name="pasted-svg-204665x145.svg" crc="3954208894" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 204665x145_poster_.png" crc="4015593710" ref="index"/>
+    <file name="pasted-svg-41252x68.svg" crc="51913027" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 41252x68_poster_.png" crc="32323648" ref="index"/>
+    <file name="pasted-svg-283557x212.svg" crc="451984277" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 283557x212_poster_.png" crc="86508956" ref="index"/>
+    <file name="screen shot 2018-07-14 at 122212 pm.jpg" crc="3959552499" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 2.png" crc="3885244952" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="365moji_about4.jpg" crc="102392455" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="weather.jpg" crc="4041423112" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ramen_listing-14.jpg" crc="3992116680" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-288515x80.svg" crc="4091133485" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 288515x80_poster_.png" crc="126497315" ref="index"/>
+    <file name="portfolioimagesbcard.jpg" crc="401455049" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poster.jpg" crc="3845197389" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-07-14 at 12236 pm.jpg" crc="4254214492" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-07-14 at 12650 pm.jpg" crc="3788573571" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="395573442" seo="true" mt="1532391125804" redirect="true"/>
+</manifest>
